@@ -16,3 +16,6 @@ Sample website with plenty of files for demos
 This is a deploutment
 
 ## How to contribute
+
+## Copyrigth
+blublublu
