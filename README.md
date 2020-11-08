@@ -18,4 +18,5 @@ This is a deploutment
 ## How to contribute
 
 ## Copyrigth
-blublublu
+Texto de copytirght
+pata hacer rebase
