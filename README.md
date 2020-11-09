@@ -5,7 +5,7 @@ asdasd
 
 ## Introduction
 
-Introduction Update asifasg
+Introduction Update to the readme
 
 ## Purpose
 
@@ -20,3 +20,4 @@ This is a deploutment
 ## Copyrigth
 Texto de copytirght, mas cambios para newbrach
 pata hacer rebase
+All rights reserved
